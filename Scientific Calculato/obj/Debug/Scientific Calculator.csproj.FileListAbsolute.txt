@@ -1,0 +1,30 @@
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\bin\Debug\Scientific Calculato.exe.config
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\bin\Debug\Scientific Calculato.exe
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\bin\Debug\Scientific Calculato.pdb
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\obj\Debug\Scientific Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\obj\Debug\Scientific_Calculato.Form1.resources
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\obj\Debug\Scientific_Calculato.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\obj\Debug\Scientific Calculator.csproj.GenerateResource.Cache
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\obj\Debug\Scientific Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\obj\Debug\Scientific Calculato.exe
+C:\Users\Lenovo\source\repos\Scientific Calculato\Scientific Calculato\obj\Debug\Scientific Calculato.pdb
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\bin\Debug\Scientific Calculato.exe.config
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\bin\Debug\Scientific Calculato.exe
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\bin\Debug\Scientific Calculato.pdb
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific_Calculato.Form1.resources
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific_Calculato.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculator.csproj.GenerateResource.Cache
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculato.exe
+C:\Users\Lenovo\source\repos\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculato.pdb
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\bin\Debug\Scientific Calculato.exe.config
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\bin\Debug\Scientific Calculato.exe
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\bin\Debug\Scientific Calculato.pdb
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific_Calculato.Form1.resources
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific_Calculato.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculator.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculato.exe
+C:\Users\Lenovo\Desktop\Scientific Calculator\Scientific Calculato\obj\Debug\Scientific Calculato.pdb
